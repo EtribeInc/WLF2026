@@ -1,0 +1,17 @@
+[01/15 10:47:28.450455][debug][2243037][Context.cpp:30] Context creating, work_dir=/Users/spencerlindsay/Documents/GitHub/WLF2026/TD
+[01/15 10:47:28.450510][debug][2243037][Context.cpp:49] Config file version=1.1
+[01/15 10:47:28.450523][debug][2243037][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[01/15 10:47:28.450529][info][2243037][Context.cpp:68] Context created with config: default config!
+[01/15 10:47:28.450557][info][2243037][Context.cpp:73] Work directory=/Users/spencerlindsay/Documents/GitHub/WLF2026/TD, SDK version=v1.10.8-20240604-d1671a341
+[01/15 10:47:28.450564][debug][2243037][DeviceManager.cpp:30] DeviceManager init ...
+[01/15 10:47:28.450567][info][2243037][MacPal.cpp:31] createObPal: create MacPal!
+[01/15 10:47:28.453615][debug][2243037][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[01/15 10:47:28.453658][debug][2243037][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[01/15 10:47:28.453676][info][2243037][MacPal.cpp:121] Create PollingDeviceWatcher!
+[01/15 10:47:28.453685][debug][2243037][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[01/15 10:47:28.453797][info][2243037][DeviceManager.cpp:15] Current found device(s): (0)
+[01/15 10:47:28.453804][debug][2243037][DeviceManager.cpp:52] DeviceManager construct done!
+[01/15 10:47:42.972269][debug][2242952][Context.cpp:81] Context destroying ...
+[01/15 10:47:42.972316][debug][2242952][DeviceManager.cpp:56] DeviceManager destroy ...
+[01/15 10:47:42.972321][debug][2242952][DeviceManager.cpp:64] DeviceManager Destructors done
+[01/15 10:47:42.973339][info][2242952][Context.cpp:84] Context destroyed
