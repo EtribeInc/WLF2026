@@ -1,0 +1,11 @@
+pybind11==2.12.0
+pybind11-global==2.12.0
+opencv-python~=4.12.0.88
+wheel
+numpy~=2.2.6
+av~=16.1.0
+pygame~=2.6.1
+pynput~=1.8.1
+pyorbbecsdk2~=2.0.15
+
+setuptools~=60.2.0
