@@ -11,13 +11,13 @@ This script can load config from either:
   - the PowerShell launcher script run_wlf_osc_pipeline.ps1 (your current workflow).
 
 Examples (PowerShell config):
-  python osc_validate_from_yaml.py --config src/run_wlf_osc_pipeline.ps1 --mode cameras
-  python osc_validate_from_yaml.py --config src/run_wlf_osc_pipeline.ps1 --mode fused
-  python osc_validate_from_yaml.py --config src/run_wlf_osc_pipeline.ps1 --mode all
+  python osc_validate_pipeline.py --config src/run_wlf_osc_pipeline.ps1 --mode cameras
+  python osc_validate_pipeline.py --config src/run_wlf_osc_pipeline.ps1 --mode fused
+  python osc_validate_pipeline.py --config src/run_wlf_osc_pipeline.ps1 --mode all
 
 Examples (YAML config):
-  python osc_validate_from_yaml.py --config src/wlf_osc_cameras.yaml --mode cameras
-  python osc_validate_from_yaml.py --config src/wlf_osc_cameras.yaml --mode fused
+  python osc_validate_pipeline.py --config src/wlf_osc_cameras.yaml --mode cameras
+  python osc_validate_pipeline.py --config src/wlf_osc_cameras.yaml --mode fused
 
 Requirements:
   pip install python-osc
